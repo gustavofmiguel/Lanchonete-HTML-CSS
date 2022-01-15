@@ -12,7 +12,8 @@
 
 <img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - HTML <br>
 <img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - CSS <br>
-<img align="center" alt="JavaScript" height="20" width="20" src="https://cdn.discordapp.com/attachments/879870124813856819/901961530839531580/javascript-map-javascript-javascript-icon-with-png-892806.png"> - JavaScript
+<img align="center" alt="JavaScript" height="20" width="20" src="https://cdn.discordapp.com/attachments/879870124813856819/901961530839531580/javascript-map-javascript-javascript-icon-with-png-892806.png"> - JavaScript <br>
+<img align="center" alt="Bootstrap"  width="20" src="https://cdn.discordapp.com/attachments/879870124813856819/931737185135239198/Bootstrap_logo.svg.png"> - Bootstrap
 
 ## Funcionalidades 
   
@@ -28,10 +29,14 @@
 
 ## 📸 Demonstração:
 <p float="left">Home</p>
-<img src=""/>
+<img src="https://media0.giphy.com/media/dkL5eaywSnCaK9wM5I/giphy.gif?cid=790b7611419e04b277e4876b7f1b75c0e4e4038692e2064a&rid=giphy.gif&ct=g" width="500"/>
+<hr>
 <p float="left">Cardapio</p>
-<img src=""/>
+<img src="https://media0.giphy.com/media/He8Cf0VV3kdtvojymK/giphy.gif?cid=790b7611effb7d0ff4ed884a56c9819c683e8a94091891ff&rid=giphy.gif&ct=g" width="500"/>
+<hr>
 <p float="left"></p>Sobre Nós</p>
-<img src=""/>
+<img src="https://cdn.discordapp.com/attachments/879870124813856819/931732558264295475/unknown.png" width="500"/>
+<hr>
 <p float="left"></p>Reserve uma mesa</p>
-<img src=""/>
+<img src="https://cdn.discordapp.com/attachments/879870124813856819/931733140471423006/unknown.png" width="500"/>
+<hr>
