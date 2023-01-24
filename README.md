@@ -6,7 +6,7 @@
    <br>
    Projetado para que o usuário acompnhe um cardapio online de uma lanchonete <br>
    com possibilidade de realizar um pedido online via WhatApp<br>
-   ou reservar uma mesa no local
+   
 
 ## 💻 Tecnologias Utilizadas:
 
